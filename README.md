@@ -24,8 +24,8 @@ assign sum   = a ^ b;   // XOR for sum
 assign carry = a & b;   // AND for carry
 endmodule 
 
-NAME: B.TAMIZHAN
-REF NO: 25018064
+NAME: HEMA PRIYA 
+REF NO: 25017270
 
 image:
 [image.pdf](https://github.com/user-attachments/files/24082684/image.pdf)
